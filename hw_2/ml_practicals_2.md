@@ -517,4 +517,4 @@ plot_scattering_with_color_2(codebook_h, kmean_clusters_h)
     
 
 
-It seems that the clusters we got by the first method are more balanced than the ones we got by sklearn kmean function but anyway there're no lonely points of one color in the bunch of points of the other color so they're all grouped well.
+It seems that the clusters we got by the first method are more balanced than the ones we got by scipy kmean function but anyway there're no lonely points of one color in the bunch of points of the other color so they're all grouped well.
